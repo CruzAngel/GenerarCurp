@@ -1,0 +1,12 @@
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Curp\FormCurp\bin\Debug\FormCurp.exe.config
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Curp\FormCurp\obj\Debug\FormCurp.csprojResolveAssemblyReference.cache
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Curp\FormCurp\obj\Debug\FormCurp.Form1.resources
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Curp\FormCurp\obj\Debug\FormCurp.Properties.Resources.resources
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Curp\FormCurp\obj\Debug\FormCurp.csproj.GenerateResource.Cache
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Curp\FormCurp\bin\Debug\FormCurp.exe
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Curp\FormCurp\bin\Debug\FormCurp.pdb
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Curp\FormCurp\obj\Debug\FormCurp.exe
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Curp\FormCurp\obj\Debug\FormCurp.pdb
+C:\Users\mfran_000\Desktop\Curp\FormCurp\bin\Debug\FormCurp.exe.config
+C:\Users\mfran_000\Desktop\Curp\FormCurp\obj\Debug\FormCurp.exe
+C:\Users\mfran_000\Desktop\Curp\FormCurp\obj\Debug\FormCurp.pdb

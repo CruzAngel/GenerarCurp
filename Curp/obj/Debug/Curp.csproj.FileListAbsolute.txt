@@ -1,0 +1,5 @@
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Curp\Curp\bin\Curp.dll
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Curp\Curp\bin\Curp.pdb
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Curp\Curp\obj\Debug\Curp.csprojResolveAssemblyReference.cache
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Curp\Curp\obj\Debug\Curp.dll
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Curp\Curp\obj\Debug\Curp.pdb
